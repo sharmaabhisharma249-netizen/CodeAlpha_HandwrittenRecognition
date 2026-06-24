@@ -1,4 +1,4 @@
-# CodeAlpha_HandwrittenRecognition
+# HandwrittenRecognition
 
 ## Handwritten Digit Recognition using CNN
 
